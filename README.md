@@ -6,3 +6,6 @@ Lets add some new lines of text here.
 and here
 going to add another line here
 and yet another here
+# this is comment 1
+# this is comment 2
+# this is comment 3
