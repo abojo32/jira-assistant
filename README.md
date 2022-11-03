@@ -9,3 +9,7 @@ and yet another here
 # this is comment 1
 # this is comment 2
 # this is comment 3
+
+# this is another test to see how I like atom. still working
+# out all the shortcuts and features!!!
+ 
